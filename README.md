@@ -15,7 +15,7 @@ Between 2021 and 2025, the Indian IPO market transitioned from a period of eupho
 •	2022 witnessed a correction phase following valuation excesses.
 •	2023–2024 marked a recovery and normalization period, where quality issues delivered consistent yet disciplined returns.
 •	2025 shows investor caution and tighter pricing — lower average listing gains but a still high percentage of positive listings.
-
+![IPO Gains](images/Screenshot 2025-11-08 014558.png)
  
 Year-Wise Sentiment and Performance
  
